@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "rutgerkirkels\\openimmo-importer": "src"
+      "rutgerkirkels\\openimmo-importer\\": "src"
     }
   }
 }
